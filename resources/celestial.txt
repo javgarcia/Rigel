@@ -1,0 +1,17 @@
+# The chosen planets radius is the equatorial radius.
+# NAME,TYP,SURF,VOL,MAS,TMPS,ATMP
+Nom ,Type d'astre ,Rayon (km),Volume (km3),Masse (kg),Température à la surface (K),Pression atmosphérique(Pa)
+Mercure,planète tellurique,2439.7,60.83 x 10^9,3.3011 x 10^23,442,10^-9
+Vénus,planète tellurique,6051.8,928.43 x 10^9,4.8685 x 10^24,735,9.3 x 10^6
+Mars, planète tellurique,3396.2,163.18 x 10^9,6.4185 x 10^23,210,610
+Jupiter,géante gazeuse,71492,1.4312 x 10^15,18986 x 10^27,110,-
+Saturne,géante gazeuse,60268,827.13 x 10^12,568.46 x 10^24,84,-
+Uranus,géante gazeuse,25559,6.8334 x 10^13,8.6810 x 10^25,53-
+Neptune,géante gazeuse,24764,62.526 x 10^12,102.43 x 10^24,55,-
+Soleil,étoile naine jaune,696342,1.412 x 10^18,1.9891 x 10^30,5750,-
+Lune, satellite de la Terre,1737.4,2.1958 x 10^10,7.3477 x 10^22,250,10^-10
+Rigel,supergéante bleue,54.89 x 10^6,variable,3.58 × 10^31,10000,-
+Betelgeuse,supergéante rouge,7.49592 × 10^8,variable,2.188 × 10^31,3600,-
+Vega,étoile blanche,1.74 × 10^6,variable,3.9778 x 10^30,9602,-
+Arcturus,géante rouge,1.76784 × 10^7,variable,1.9889 x 10^30,4286,-
+Bellatrix,géante bleue,3.9672 × 10^6,variable,1.591 x 10^31,21500,-
